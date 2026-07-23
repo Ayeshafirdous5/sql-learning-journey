@@ -39,7 +39,7 @@ database/
 | ✅ | DISTINCT |
 | ✅ | WHERE Clause |
 | ✅| ORDER BY |
-| ✅ | GROUP BY |
+| ✅| GROUP BY |
 | ⏳ | HAVING |
 | ⏳ | LIMIT |
 | ⏳ | ALIAS |
