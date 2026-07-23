@@ -38,8 +38,8 @@ database/
 | ✅ | SELECT |
 | ✅ | DISTINCT |
 | ✅ | WHERE Clause |
-| ⏳ | ORDER BY |
-| ⏳ | GROUP BY |
+| ✅| ORDER BY |
+| ✅ | GROUP BY |
 | ⏳ | HAVING |
 | ⏳ | LIMIT |
 | ⏳ | ALIAS |
