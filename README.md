@@ -40,9 +40,9 @@ database/
 | ✅ | WHERE Clause |
 | ✅| ORDER BY |
 | ✅| GROUP BY |
-| ⏳ | HAVING |
-| ⏳ | LIMIT |
-| ⏳ | ALIAS |
+| ✅ | HAVING |
+| ✅ | LIMIT |
+| ✅ | ALIAS |
 | ⏳ | Aggregate Functions |
 | ⏳ | JOINS |
 | ⏳ | CASE Statements |
