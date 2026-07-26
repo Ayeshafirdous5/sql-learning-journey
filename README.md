@@ -43,7 +43,7 @@ Created specifically for learning SQL JOIN operations and advanced concepts.
 
 **Topics Practiced:**
 - INNER JOIN
-- LEFT JOIN *(Coming Soon)*
+- LEFT JOIN 
 - RIGHT JOIN *(Coming Soon)*
 - SELF JOIN *(Coming Soon)*
 - Multiple Table JOINs *(Coming Soon)*
@@ -65,7 +65,7 @@ The complete database creation scripts are available in the **database/** folder
 | ✅ | LIMIT |
 | ✅ | ALIAS |
 | ✅ | INNER JOIN |
-| ⏳ | LEFT JOIN |
+| ✅ | LEFT JOIN |
 | ⏳ | RIGHT JOIN |
 | ⏳ | SELF JOIN |
 | ⏳ | Aggregate Functions |
@@ -75,27 +75,6 @@ The complete database creation scripts are available in the **database/** folder
 | ⏳ | Window Functions |
 | ⏳ | Stored Procedures |
 
----
-
-# 📁 Repository Structure
-
-```text
-SQL-Learning-Journey
-│
-├── README.md
-│
-├── database
-│   ├── online_store_schema.sql
-│   └── company_db_schema.sql
-│
-├── 01_SELECT_DISTINCT
-├── 02_WHERE
-├── 03_GROUPBY_ORDERBY
-├── 04_HAVING_LIMIT_ALIAS
-├── 05_INNER_JOIN
-│
-└── More folders coming soon...
-```
 
 ---
 
