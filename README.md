@@ -44,7 +44,7 @@ Created specifically for learning SQL JOIN operations and advanced concepts.
 **Topics Practiced:**
 - INNER JOIN
 - LEFT JOIN 
-- RIGHT JOIN *(Coming Soon)*
+- RIGHT JOIN 
 - SELF JOIN *(Coming Soon)*
 - Multiple Table JOINs *(Coming Soon)*
 
@@ -66,7 +66,7 @@ The complete database creation scripts are available in the **database/** folder
 | ✅ | ALIAS |
 | ✅ | INNER JOIN |
 | ✅ | LEFT JOIN |
-| ⏳ | RIGHT JOIN |
+| ✅ | RIGHT JOIN |
 | ⏳ | SELF JOIN |
 | ⏳ | Aggregate Functions |
 | ⏳ | CASE Statements |
