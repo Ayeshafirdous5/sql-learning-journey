@@ -46,7 +46,7 @@ Created specifically for learning SQL JOIN operations and advanced concepts.
 - LEFT JOIN 
 - RIGHT JOIN 
 - SELF JOIN 
-- Multiple Table JOINs *(Coming Soon)*
+- Multiple Table JOINs 
 
 The complete database creation scripts are available in the **database/** folder.
 
@@ -68,6 +68,7 @@ The complete database creation scripts are available in the **database/** folder
 | ✅ | LEFT JOIN |
 | ✅ | RIGHT JOIN |
 | ✅ | SELF JOIN |
+| ✅ | MULTIPLE JOINS |
 | ⏳ | Aggregate Functions |
 | ⏳ | CASE Statements |
 | ⏳ | Subqueries |
