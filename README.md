@@ -69,7 +69,7 @@ The complete database creation scripts are available in the **database/** folder
 | ✅ | RIGHT JOIN |
 | ✅ | SELF JOIN |
 | ✅ | MULTIPLE JOINS |
-| ⏳ | Aggregate Functions |
+| ✅ | UNION |
 | ⏳ | CASE Statements |
 | ⏳ | Subqueries |
 | ⏳ | Common Table Expressions (CTEs) |
