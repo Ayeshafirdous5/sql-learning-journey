@@ -1,4 +1,4 @@
-# 🚀 SQL Learning Journey
+#  SQL Learning Journey
 
 Welcome to my SQL Learning Journey!
 
@@ -70,6 +70,7 @@ The complete database creation scripts are available in the **database/** folder
 | ✅ | SELF JOIN |
 | ✅ | MULTIPLE JOINS |
 | ✅ | UNION |
+| ✅ | STRING FUNCTIONS |
 | ⏳ | CASE Statements |
 | ⏳ | Subqueries |
 | ⏳ | Common Table Expressions (CTEs) |
