@@ -71,7 +71,7 @@ The complete database creation scripts are available in the **database/** folder
 | ✅ | MULTIPLE JOINS |
 | ✅ | UNION |
 | ✅ | STRING FUNCTIONS |
-| ⏳ | CASE Statements |
+| ✅| CASE Statements |
 | ⏳ | Subqueries |
 | ⏳ | Common Table Expressions (CTEs) |
 | ⏳ | Window Functions |
