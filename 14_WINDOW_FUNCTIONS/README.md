@@ -34,7 +34,7 @@ Unlike `GROUP BY`, Window Functions perform calculations across a set of rows wh
 ## Files Included
 
 - `practice_queries.sql`
-- `screenshots/`
+- `screenshots`
 
 ## Skills Practiced
 
