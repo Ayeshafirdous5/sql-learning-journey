@@ -1,10 +1,10 @@
-#  SQL Learning Journey
+# 🚀 SQL Learning Journey
 
 Welcome to my SQL Learning Journey!
 
-This repository documents my step-by-step journey of learning **SQL for Data Analytics** through hands-on practice. Instead of only watching tutorials, I practice every concept by writing SQL queries, solving exercises, and documenting my progress on GitHub.
+This repository documents my step-by-step journey of learning **SQL for Data Analytics** through hands-on practice. Instead of just watching tutorials, I write SQL queries, solve practice problems, and document everything on GitHub.
 
-My goal is to build a strong SQL foundation while creating a portfolio that demonstrates consistency, problem-solving skills, and practical SQL knowledge.
+My goal is to build a strong SQL foundation while creating a portfolio that showcases consistency, problem-solving skills, and practical SQL knowledge.
 
 ---
 
@@ -33,22 +33,33 @@ Used for learning SQL fundamentals.
 
 ## 🏢 Company Database
 
-Created specifically for learning SQL JOIN operations and advanced concepts.
+Created specifically for learning SQL JOIN operations and advanced SQL concepts.
 
 **Tables:**
 - Employees
 - Departments
 - Projects
 - Employee_Projects
+- Employee_Audit (for Trigger practice)
 
-**Topics Practiced:**
+**Advanced Topics Practiced:**
 - INNER JOIN
-- LEFT JOIN 
-- RIGHT JOIN 
-- SELF JOIN 
-- Multiple Table JOINs 
+- LEFT JOIN
+- RIGHT JOIN
+- SELF JOIN
+- Multiple Table JOINs
+- UNION
+- String Functions
+- CASE Statements
+- Subqueries
+- Window Functions
+- Common Table Expressions (CTEs)
+- Temporary Tables
+- Stored Procedures
+- Triggers
+- Events
 
-The complete database creation scripts are available in the **database/** folder.
+The complete database creation scripts are available inside the **database/** folder.
 
 ---
 
@@ -68,15 +79,50 @@ The complete database creation scripts are available in the **database/** folder
 | ✅ | LEFT JOIN |
 | ✅ | RIGHT JOIN |
 | ✅ | SELF JOIN |
-| ✅ | MULTIPLE JOINS |
+| ✅ | Multiple JOINS |
 | ✅ | UNION |
-| ✅ | STRING FUNCTIONS |
-| ✅| CASE Statements |
-| ✅| Subqueries |
+| ✅ | String Functions |
+| ✅ | CASE Statements |
+| ✅ | Subqueries |
 | ✅ | Window Functions |
 | ✅ | Common Table Expressions (CTEs) |
-| ⏳ | Stored Procedures |
+| ✅ | Temporary Tables |
+| ✅ | Stored Procedures |
+| ⏳ | Triggers |
+| ⏳ | Events |
+| ⏳ | SQL Business Projects |
 
+---
+
+# 📁 Repository Structure
+
+```text
+SQL-Learning-Journey
+│
+├── database
+│   ├── online_store_schema.sql
+│   └── company_db_schema.sql
+│
+├── 01_SELECT_DISTINCT
+├── 02_WHERE
+├── 03_ORDER_BY_GROUPBY
+├── 04_HAVING_LIMIT_ALIAS
+├── 05_INNER_JOIN
+├── 06_LEFT_JOIN
+├── 07_RIGHT_JOIN
+├── 08_SELF_JOIN
+├── 09_MULTIPLE_JOINS
+├── 10_UNION
+├── 11_STRING_FUNCTIONS
+├── 12_CASE_STATEMENTS
+├── 13_SUBQUERIES
+├── 14_WINDOW_FUNCTIONS
+├── 15_CTES
+├── 16_TEMP_TABLES
+├── 17_STORED_PROCEDURES
+├── 18_TRIGGERS_EVENTS
+└── README.md
+```
 
 ---
 
@@ -90,7 +136,7 @@ For every SQL topic, I maintain:
 - ✅ Individual README files
 - ✅ Step-by-step documentation
 
-This helps me reinforce concepts while building a professional GitHub portfolio for Data Analytics.
+This approach helps me strengthen my SQL concepts while building a professional GitHub portfolio for Data Analytics.
 
 ---
 
@@ -98,16 +144,32 @@ This helps me reinforce concepts while building a professional GitHub portfolio 
 
 - MySQL Workbench
 - SQL (MySQL)
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
 # 🎯 Goal
 
-My objective is to become a **Data Analyst** by mastering SQL through consistent practice and real-world examples.
+My objective is to become a **Data Analyst** by mastering SQL through consistent practice, solving real-world business problems, and building a strong project portfolio.
 
-This repository will continue to grow as I explore advanced SQL concepts and build a strong portfolio for internships and full-time Data Analyst roles.
+After completing SQL, I plan to continue my Data Analytics journey by learning:
+
+- Power BI
+- Excel Dashboarding
+- Python for Data Analysis
 
 ---
 
-⭐ Thank you for visiting my repository! Feel free to explore my progress as I continue learning SQL.
+## 📈 Current Progress
+
+- ✅ SQL Fundamentals Completed
+- ✅ Intermediate SQL Completed
+- ✅ Advanced SQL Completed
+- 🚀 Next Step: Real-World SQL Projects & Power BI
+
+---
+
+⭐ Thank you for visiting my repository!
+
+Feel free to explore my SQL learning journey, practice queries, and project documentation as I continue building my Data Analytics portfolio.
