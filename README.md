@@ -90,8 +90,6 @@ The complete database creation scripts are available inside the **database/** fo
 | ✅ | Stored Procedures |
 | ⏳ | Triggers |
 | ⏳ | Events |
-| ⏳ | SQL Business Projects |
-
 ---
 
 # 📁 Repository Structure
