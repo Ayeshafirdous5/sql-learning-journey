@@ -88,8 +88,8 @@ The complete database creation scripts are available inside the **database/** fo
 | ✅ | Common Table Expressions (CTEs) |
 | ✅ | Temporary Tables |
 | ✅ | Stored Procedures |
-| ⏳ | Triggers |
-| ⏳ | Events |
+| ✅ | Triggers |
+| ✅ | Events |
 ---
 
 # 📁 Repository Structure
